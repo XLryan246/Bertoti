@@ -44,5 +44,11 @@ As mensagens de erro devem ser expressas em linguagem simples (sem códigos de e
 | --- | --- | --- |
 | 4 | ![image (1)](https://github.com/XLryan246/Bertoti/assets/100379352/708fba54-5883-4bbb-b8aa-800f59c12f10) | Botão de cor não convencional |
 | 10 | ![image (2)](https://github.com/XLryan246/Bertoti/assets/100379352/782342c5-f327-432c-b227-fd50685b8043) | Explicação adicional das funcionalidades do sistema para o usuário se localizar melhor |
-| 8  | ![image (3)](https://github.com/XLryan246/Bertoti/assets/100379352/8315ca3c-7bfc-44d7-8c0f-621eddc535b1)
- | Linha 3, Coluna 3 |
+| 8 | ![image (3)](https://github.com/XLryan246/Bertoti/assets/100379352/8315ca3c-7bfc-44d7-8c0f-621eddc535b1) | Design minimalista e objetivo para que o usuário nao se distraia com informações irrelevantes |
+| 4 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/b7989ceb-2a33-4974-9a31-e58fb2f12102)| Botão vermelho, não convencional |
+| 7 | ![gps](https://github.com/XLryan246/Bertoti/assets/100379352/5a709300-ec3a-4817-bc8a-f094415cb96f)| rotas alternativas para chegar nos destinos |
+| 5 | ![sla](https://github.com/XLryan246/Bertoti/assets/100379352/5debe712-760a-4c03-8c09-71d5b16772e6)| restrição útil para o usuario adquirir o serviço |
+| 3 , 4 | ![sla2](https://github.com/XLryan246/Bertoti/assets/100379352/fcbdb3ea-a31d-4150-b8cc-f9f1c1db9dcf)| usuario tem o controle de ida e volta na pagina por meio dos botões e botão de finalizar em vermelho não é convencional. |
+| 8 | ![americanas](https://github.com/XLryan246/Bertoti/assets/100379352/ea6f9810-7df0-4e0c-a5a2-1d75989e9b5e)| interface poluída com muitos elementos desnecessários |
+| 5 | ![Screenshot_1](https://github.com/XLryan246/Bertoti/assets/100379352/f29093d9-a476-4566-a053-4453e755cb98)| mensagem de confirmação de exclusão para evitar exclusão acidental | 
+ 
