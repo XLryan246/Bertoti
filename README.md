@@ -54,7 +54,9 @@ As mensagens de erro devem ser expressas em linguagem simples (sem códigos de e
 | 5 | ![disc](https://github.com/XLryan246/Bertoti/assets/100379352/67d6618f-566e-4031-af13-b209712aa5ea)| Mensagem de confirmação para logout do perfil no discord |
 | 9 | ![error](https://github.com/XLryan246/Bertoti/assets/100379352/467bc701-269b-48b1-ba90-1973eac9fbdf)| Mensagem de erro construtiva indicando objetivamente o problema e sugerindo solução|
 | 8 |![eae](https://github.com/XLryan246/Bertoti/assets/100379352/1bbb4594-2c30-478b-b5a4-66c6b69d44a1)| Interface poluída com muitos elementos podendo tirar o foco do usuário|
-| 2 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/f1338666-ea9a-49d7-9384-94ae228c97ef) | tratamento de erro é feito de forma intuitiva e nao de forma técnica mostrando 'erro 404' ou 'not found' |
+| 2 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/f1338666-ea9a-49d7-9384-94ae228c97ef) | Tratamento de erro é feito de forma intuitiva e nao de forma técnica mostrando 'erro 404' ou 'not found' |
+| 9 |![image](https://github.com/XLryan246/Bertoti/assets/100379352/2336383d-b9a6-4688-a17a-c10729bef259) | Documentação que ajuda o usuário a compreender o sistema |
+
 
 
  
