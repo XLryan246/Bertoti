@@ -56,7 +56,8 @@ As mensagens de erro devem ser expressas em linguagem simples (sem códigos de e
 | 8 |![eae](https://github.com/XLryan246/Bertoti/assets/100379352/1bbb4594-2c30-478b-b5a4-66c6b69d44a1)| Interface poluída com muitos elementos podendo tirar o foco do usuário|
 | 2 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/f1338666-ea9a-49d7-9384-94ae228c97ef) | Tratamento de erro é feito de forma intuitiva e nao de forma técnica mostrando 'erro 404' ou 'not found' |
 | 9 |![image](https://github.com/XLryan246/Bertoti/assets/100379352/2336383d-b9a6-4688-a17a-c10729bef259) | Documentação que ajuda o usuário a compreender o sistema |
-
+| 1 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/d726cdf0-6b48-4e9e-8d03-5066e895984f)| Mantém o usuário informado sobre o andamento do download |
+| 1 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/52ec0fc9-0e6a-4385-aaf6-766b748ac824)| Mantém o usuário informado sobre o andamento do download |
 
 
  
