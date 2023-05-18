@@ -58,6 +58,8 @@ As mensagens de erro devem ser expressas em linguagem simples (sem códigos de e
 | 9 |![image](https://github.com/XLryan246/Bertoti/assets/100379352/2336383d-b9a6-4688-a17a-c10729bef259) | Documentação que ajuda o usuário a compreender o sistema |
 | 1 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/d726cdf0-6b48-4e9e-8d03-5066e895984f)| Mantém o usuário informado sobre o andamento do download |
 | 1 | ![image](https://github.com/XLryan246/Bertoti/assets/100379352/52ec0fc9-0e6a-4385-aaf6-766b748ac824)| Mantém o usuário informado sobre o andamento do download |
+| 1 |![image](https://github.com/XLryan246/Bertoti/assets/100379352/92730f12-50a8-4bda-aa8e-b7153e1b1a40) | Mantém o usuário informado sobre onde está localizado no sistema |
+
 
 
  
